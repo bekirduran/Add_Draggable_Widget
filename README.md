@@ -1,4 +1,4 @@
-# add_dragable_widget
+# add_draggable_widget
 
 A new Flutter application.
 
@@ -15,23 +15,23 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
- # Dragable Widget Application Screen Images 
+ # Draggable Widget Application Screen Images 
 <img src=/ScreenShots/ss1.png width="400" height="700">
 
- # Dragable Widget Application Screen Images 
+ # Draggable Widget Application Screen Images 
 <img src=/ScreenShots/ss2.png width="400" height="700">
 
- # Dragable Widget Application Screen Images 
+ # Draggable Widget Application Screen Images 
 <img src=/ScreenShots/ss3.png width="400" height="700">
 
- # Dragable Widget Application Screen Images 
+ # Draggable Widget Application Screen Images 
 <img src=/ScreenShots/ss4.png width="400" height="700">
 
- # Dragable Widget Application Screen Images 
+ # Draggable Widget Application Screen Images 
 <img src=/ScreenShots/ss5.png width="400" height="700">
 
- # Dragable Widget Application Screen Images 
+ # Draggable Widget Application Screen Images 
 <img src=/ScreenShots/ss6.png width="400" height="700">
 
- # Dragable Widget Application Screen Images 
+ # Draggable Widget Application Screen Images 
 <img src=/ScreenShots/ss7.png width="400" height="700">
